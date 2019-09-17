@@ -1,0 +1,5 @@
+numpy
+pyopengl
+PyOpenGL_accelerate
+glumpy
+opencv-python
